@@ -20,7 +20,9 @@ body {
   min-height: 100vh;
   
   display: flex;
+  justify-content: center;
   align-items: center;
+  min-height: 100vh;
   font-family: var(--ff-lexand-deca);
   font-size: 15px;
   font-weight: var(--fw-regular);
